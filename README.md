@@ -1,36 +1,155 @@
-# Eureka Software Information
 
-Welcome to the Eureka Software Repository! This is a comprehensive and technical README that provides insights into the remarkable Eureka software. Eureka is a collective endeavor, a collaborative development project that invites everyone to participate, contribute, and enhance its capabilities.
+# Eureka Software - Permanently Discontinued
 
-# About Eureka
+> ⚠️ **PROJECT PERMANENTLY DISCONTINUED - EUREKA SOFTWARE**
+>
+> Exohood Labs. has permanently discontinued the Eureka Software project.
+>
+> **Eureka is no longer under active development, maintenance, or official support by Exohood Labs.**
+>
+> No further releases, feature development, security updates, or official community contributions are planned.
+>
+> This repository is retained exclusively for historical, educational, and archival purposes.
+>
+> **Project Status: Permanently Discontinued.**
 
-Eureka is a cutting-edge blockchain software that caters to diverse needs, be it professionals, home users, or traders. With a focus on environmental sustainability, Eureka harnesses the power of blockchain technology for various applications beyond just financial transactions. This open-source software is designed to revolutionize the way we interact with data, fostering transparency, security, and traceability.
+## Historical Project Overview
 
-# Advantages of Blockchain Technology for the Environment
+Eureka was originally conceived as an experimental blockchain software initiative exploring decentralized data management, software applications, and the potential use of distributed ledger technologies.
 
-Blockchain technology offers a myriad of advantages for the environment. By enabling decentralized data storage and management, blockchain reduces the need for centralized authorities and minimizes the environmental impact of resource-intensive processes. Moreover, smart contracts executed on the blockchain can facilitate peer-to-peer transactions, promoting sustainable and eco-friendly practices. Eureka embodies these principles, striving to pave the way for a greener and more sustainable future.
+The project investigated the possible applications of blockchain technology beyond financial transactions, including:
 
-# Unveiling the Historical Potential
+- Decentralized data storage and management.
+- Distributed ledger architecture.
+- Data integrity and traceability.
+- Smart contract applications.
+- Peer-to-peer software interactions.
+- Blockchain research and experimentation.
+- Potential applications involving environmental data and sustainability.
 
-Imagine if blockchain had existed at the dawn of human civilization - we would possess an immutable record of every event throughout the ages. Eureka, being at the forefront of this technological revolution, holds the potential to reshape history as we know it. By capturing, validating, and preserving data on an incorruptible ledger, we can rewrite the way we document and comprehend our past.
+These topics represented the original project's research interests and development objectives.
 
-# The Ongoing Blockchain Revolution
+**They should not be interpreted as confirmation that all proposed features were implemented, deployed, or made commercially available.**
 
-As we embark on this transformative journey, it's essential to acknowledge that we are only scratching the surface of blockchain's potential. Eureka represents just the beginning, a glimpse of the incredible possibilities that await us. Through this software, you'll not only understand blockchain but also gain the tools to actively integrate and apply it to your daily life, whether you're a company, a home user, or a trader.
+## Environmental and Sustainability Research
 
-# Get Involved!
-Join the Eureka community and become part of a groundbreaking movement. Whether you're a developer, an enthusiast, or someone seeking to make a positive impact, your contributions are invaluable. Together, we'll continue to build, improve, and refine Eureka, shaping the future of blockchain technology.
+The original Eureka concept explored whether blockchain technologies could support applications involving environmental information, data transparency, and traceability.
 
-# How to Contribute
+These ideas were exploratory.
 
-* Fork this repository and create your own branch for modifications.
+Blockchain systems have different technical architectures, resource requirements, and environmental impacts.
 
-* Submit pull requests for review and integration into the main codebase.
+Eureka did not establish that blockchain technology necessarily reduces energy consumption or provides environmental benefits in every application.
 
-* Engage with the community through discussions, sharing ideas, and offering feedback.
+Previously published sustainability statements should therefore be understood as historical research objectives rather than verified environmental performance claims.
 
-# Experience the Revolution
+## Historical Development Concepts
 
-Embrace the power of blockchain with Eureka! Explore, learn, and create a new reality where blockchain technology transcends boundaries. Together, let's reshape the world and embark on this extraordinary journey!
+Eureka's early documentation examined the potential of blockchain technology for recording and verifying information across distributed systems.
 
-Note: This README is a living document and will be continually updated to reflect the ongoing development and progress of Eureka. Please check back regularly for the latest information and contributions. Thank you for being a part of this transformative experience! 
+Research topics included:
+
+- Distributed record keeping.
+- Data verification mechanisms.
+- Transaction processing concepts.
+- Software integration.
+- Blockchain applications for organizations and individuals.
+- Experimental approaches to information integrity.
+
+The project's documentation reflected possible areas of development rather than a guarantee of completed functionality.
+
+No future implementation or commercial release is planned under this initiative.
+
+## Development Status
+
+**Development has been permanently discontinued.**
+
+Exohood Labs no longer provides:
+
+- New Eureka software releases.
+- Feature development.
+- Security patches.
+- Dependency updates.
+- Compatibility improvements.
+- Technical maintenance.
+- Installation or deployment support.
+- Official development collaboration.
+- Review or acceptance of new contributions.
+
+Previously published development plans, roadmaps, and statements concerning ongoing updates are no longer applicable.
+
+## Public Contributions — Closed
+
+> 🔒 **EXTERNAL DEVELOPMENT PERMANENTLY CLOSED**
+>
+> The former Eureka public development and community contribution initiative has been discontinued.
+>
+> Exohood Labs no longer accepts pull requests, feature proposals, or development contributions for this repository.
+
+Historical contribution instructions are retained solely as part of the project's development history.
+
+Independent forks may remain possible under the applicable software license.
+
+Such forks are not automatically affiliated with, maintained by, or endorsed by Exohood Labs.
+
+## Repository Usage and Security
+
+This repository is preserved as historical source material.
+
+Its contents may include experimental implementations, outdated software dependencies, incomplete features, or unreviewed security vulnerabilities.
+
+**Eureka should not be considered a maintained or production-ready blockchain application.**
+
+Do not rely on historical implementations to process financial transactions, manage sensitive information, or operate critical infrastructure without an independent technical and security assessment.
+
+Exohood Labs does not guarantee the continued functionality, compatibility, security, or reliability of this software.
+
+## Licensing and Intellectual Property
+
+Any source code previously published under a valid software license remains subject to that license and its accompanying copyright notices.
+
+The discontinuation of Eureka does not revoke rights already granted under applicable open-source licenses.
+
+However, publication of this historical repository does not grant access to proprietary technologies, internal systems, or separately developed commercial software belonging to Exohood Labs Inc.
+
+Historical materials are provided **"AS IS"**, without warranties of functionality, security, accuracy, or fitness for a particular purpose, to the extent permitted by applicable law.
+
+## Relationship With Exohood Labs
+
+Eureka is a discontinued research and software development initiative.
+
+It does not represent an active Exohood Labs product, operational blockchain network, or currently supported commercial application.
+
+The closure of Eureka does not affect other independently developed or maintained Exohood Labs projects.
+
+## Repository Status
+
+| Component | Status |
+|---|---|
+| Eureka Software | Permanently Discontinued |
+| Active Development | Closed |
+| New Releases | Not Planned |
+| Public Contributions | Closed |
+| Pull Requests | Not Accepted |
+| Technical Maintenance | Discontinued |
+| Security Updates | Unavailable |
+| Production Support | Unavailable |
+| Repository Purpose | Historical and Educational Archive |
+
+## Final Notice
+
+**Eureka Software has been permanently discontinued by Exohood Labs Inc.**
+
+This repository is preserved to document the project's original research objectives, technical concepts, and development history.
+
+No further official development, maintenance, security updates, or technical support are planned.
+
+The repository must not be interpreted as evidence of an active blockchain service or an upcoming product launch.
+
+---
+
+**PROJECT STATUS: PERMANENTLY DISCONTINUED**
+
+**DEVELOPMENT AND CONTRIBUTIONS: CLOSED**
+
+**REPOSITORY PURPOSE: HISTORICAL ARCHIVE**
